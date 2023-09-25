@@ -1,5 +1,5 @@
 # Copyright (c) HashiCorp, Inc.
-#  Gurudev Sharma customized 
+# Anupam Singh customized
 
 terraform {
   required_providers {
