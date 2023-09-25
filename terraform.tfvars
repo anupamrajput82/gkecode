@@ -1,5 +1,5 @@
 # Copyright (c) HashiCorp, Inc.
-#  Gurudev Sharma customized 
+# Anupam Singh customized
 
 project_id = "REPLACE_ME"
 region     = "us-central1"
