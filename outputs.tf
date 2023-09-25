@@ -1,5 +1,5 @@
 # Copyright (c) HashiCorp, Inc.
-#  Gurudev Sharma customized 
+# Anupam Singh customized 
 
 output "region" {
   value       = var.region
